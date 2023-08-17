@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Vargas</h1>
 <h3 align="center">information systems student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiomvargas&label=Profile%20views&color=0e75b6&style=flat" alt="caiomvargas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/caiomvargas" target="blank"><img src="https://img.shields.io/twitter/follow/caiomvargas?logo=twitter&style=for-the-badge" alt="caiomvargas" /></a> </p>
 
 - 📃 [To-do-list](https://github.com/CaioMVargas/to-do-list)
 
