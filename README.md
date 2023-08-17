@@ -9,8 +9,6 @@
 
 - 🤝 [Organo](https://github.com/CaioMVargas/organo2.0)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-cvargas.vercel.app/](https://portfolio-cvargas.vercel.app/)
-
 - 📫 How to reach me **caiomvargas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
